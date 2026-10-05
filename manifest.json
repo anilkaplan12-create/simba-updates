@@ -1,6 +1,6 @@
 {
-  "version": "1.6.3",
-  "exe_url": "https://github.com/anilkaplan12-create/simba-updates/releases/download/v1.6.3/SIMBA_Analiz_AI.exe",
-  "sha256": "7FF5E537485A2E01FBA9C593C3A58FFE70C46396585EBDB30E0D9973E5165B22",
-  "notes": "SIMBA Analiz AI V1.6.3 Portable Kurumsal - Python + R doğrulama motoru"
+  "version": "1.6.5",
+  "exe_url": "https://github.com/anilkaplan12-create/simba-updates/releases/download/v1.6.5/SIMBA_Analiz_AI.exe",
+  "sha256": "36EBAE663A77A5D6D5A1024D9BEC34D383A3E9A83A1E817E309DEB7CC90FF084",
+  "notes": "SIMBA Analiz AI V1.6.5 - tüm analiz modülleri, Python + R doğrulama motoru"
 }
