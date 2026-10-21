@@ -1,6 +1,6 @@
 {
-  "version": "1.8.3",
-  "exe_url": "https://github.com/anilkaplan12-create/simba-updates/releases/download/v1.8.3/SIMBA_Analiz_AI.exe",
-  "sha256": "F885790F173C7F82DD0A9C596934A183DAB5A236F4A24169E0CC9D2AF0C78BEE",
-  "notes": "SIMBA Analiz AI V1.8.3 - Update Fix Final. Güncelleme kontrolü düzeltildi. Mevcut 40 modül ve 67 analiz yöntemi korunmuştur. İleri Tahmin, doğrulama sistemi ve güvenli SHA-256 güncelleme yapısı devam etmektedir."
+  "version": "4.0.0",
+  "exe_url": "https://github.com/anilkaplan12-create/simba-updates/releases/download/v4.0.0/SIMBA_Analiz_AI.exe",
+  "sha256": "cf311f00de5b1ea261a8697e6e3ed2cb499ff0c6706338164401ba71cfd56113",
+  "notes": "SIMBA Analiz AI V4.0.0 - Survey, Municipal Decision & Optimization Intelligence. Is analizi, belediye ve vatandas memnuniyeti, anket karar zekasi, biyostatistik, meta-analiz, ileri tahmin, bilimsel dogrulama, arastirma kalite denetimi, optimizasyon ve profesyonel raporlama gelistirmeleri."
 }
